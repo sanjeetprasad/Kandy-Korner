@@ -1,0 +1,40 @@
+{
+    "products": [
+          
+    ],
+    "locations": [
+          {
+              "id": 1,
+              "address": "123 ABC Road",
+              "squareFootage": 300, 
+              "handicapAccessible": true
+        },
+        {
+            "id": 2,
+            "address": "456 XYZ Road",
+            "squareFootage": 400, 
+            "handicapAccessible": false
+      },
+      {
+        "id": 3,
+        "address": "789 ILU Road",
+        "squareFootage": 500, 
+        "handicapAccessible": true
+  }
+
+    
+      
+    ],
+    "employees": [
+      
+
+    ],
+    "productTypes": [
+    
+    
+    ],
+
+    "customers": [
+      
+    ]
+}
